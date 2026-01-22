@@ -56,4 +56,5 @@ Meet the minds behind SmartStudy.
 *   📧 smartstudy@plmun.edu.ph
 
 ---
-*© 2025 SmartStudy. Capstone Project - PLMun CITCS*
+*© 2026 SmartStudy. Capstone Project - PLMun CITCS*
+
