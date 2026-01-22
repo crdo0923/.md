@@ -179,12 +179,4 @@ For high availability, we maintain a secondary mirror server:
 
 ---
 
-## ⚙️ Setup for Developers
-
-1.  **Database:** Import `sql/db.sql` into a database named `capstone_ricardo`.
-2.  **Config:** Ensure `php/lib/db.php` points to your MySQL instance.
-3.  **Run:** Serve via XAMPP/Apache from the `htdocs` directory.
-
----
-
 *Developed by the SmartStudy Team | 2026*
