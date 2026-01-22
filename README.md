@@ -23,6 +23,9 @@
 
 View the detailed development schedule here: **[📂 View Project Gantt Chart & Schedule](GANTT_CHART.md)**
 
+### 🎓 About the Project
+Learn more about our mission, vision, and the team behind SmartStudy: **[👥 About SmartStudy](ABOUT.md)**
+
 ---
 
 ## 📖 User Manual: Page by Page
@@ -176,6 +179,14 @@ For high availability, we maintain a secondary mirror server:
     *   ❌ **AI Features Disabled:** Gemini/Groq integration is not available on the backup site.
     *   ⚠️ **Messaging:** Real-time chat may experience occasional instability.
     *   🔑 **API Keys:** Do NOT delete your API key if it works on the main server. It may appear as "error" on the backup site simply because AI features are disabled there, not because your key is invalid.
+
+---
+
+## ⚙️ Setup for Developers
+
+1.  **Database:** Import `sql/db.sql` into a database named `capstone_ricardo`.
+2.  **Config:** Ensure `php/lib/db.php` points to your MySQL instance.
+3.  **Run:** Serve via XAMPP/Apache from the `htdocs` directory.
 
 ---
 
