@@ -117,4 +117,5 @@ All data (login, messages, posts) is protected via **HTTPS (SSL/TLS)** in produc
 
 ---
 
-*System Architecture Document | SmartStudy Team | Dec 2025*
+*System Architecture Document | SmartStudy Team | Dec 2026*
+
